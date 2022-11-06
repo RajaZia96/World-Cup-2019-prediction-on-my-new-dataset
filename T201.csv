@@ -1,0 +1,941 @@
+Team1,Team2,Ground,Toss,Bat,Winner
+Pakistan, Bangladesh,Karachi,win,first,Pakistan
+England, New Zealand,Manchester,win,2nd,England
+West Indies, Australia,Bridgetown,win,2nd,West Indies
+Netherlands, Kenya,Belfast,loss,first,Netherlands
+Ireland, Scotland,Belfast,loss,2nd,Ireland
+Canada, Netherlands,Belfast,loss,2nd,Canada
+Scotland, Bermuda,Belfast,win,2nd,Scotland
+Kenya, Canada,Belfast,loss,2nd,Kenya
+Ireland, Bermuda,Belfast,win,first,Ireland
+Ireland, Kenya,Belfast,win,2nd,Ireland
+Netherlands, Scotland,Belfast,win,2nd,Netherlands
+Scotland, Kenya,Belfast,loss,2nd,Scotland
+Canada, Bermuda,Belfast,win,2nd,Canada
+Sri Lanka, Zimbabwe,King City (NW),win,2nd,Sri Lanka
+Pakistan, Canada,King City (NW),win,first,Pakistan
+Pakistan, Sri Lanka,King City (NW),win,2nd,Pakistan
+Pakistan, Zimbabwe,King City (NW),loss,2nd,Pakistan
+Sri Lanka, Canada,King City (NW),win,first,Sri Lanka
+Zimbabwe, Canada,King City (NW),loss,first,Zimbabwe
+Sri Lanka, Pakistan,King City (NW),win,2nd,Sri Lanka
+South Africa, Bangladesh,Johannesburg,loss,first,South Africa
+New Zealand, West Indies,Hamilton,win,first,New Zealand
+Australia, South Africa,Melbourne,win,first,Australia
+Australia, South Africa,Brisbane,loss,2nd,Australia
+India, Sri Lanka,Colombo (RPS),loss,2nd,India
+Australia, New Zealand,Sydney,win,first,Australia
+New Zealand, India,Christchurch,win,2nd,New Zealand
+New Zealand, India,Wellington,win,2nd,New Zealand
+West Indies, England,Port of Spain,win,2nd,West Indies
+South Africa, Australia,Johannesburg,win,2nd,South Africa
+South Africa, Australia,Centurion,loss,first,South Africa
+Pakistan, Australia,Dubai (DSC),win,2nd,Pakistan
+Netherlands, England,Lords,win,2nd,Netherlands
+New Zealand, Scotland,The Oval,win,2nd,New Zealand
+West Indies, Australia,The Oval,loss,2nd,West Indies
+India, Bangladesh,Nottingham,win,first,India
+South Africa, Scotland,The Oval,loss,first,South Africa
+England, Pakistan,The Oval,loss,first,England
+Ireland, Bangladesh,Nottingham,win,2nd,Ireland
+Sri Lanka, Australia,Nottingham,win,2nd,Sri Lanka
+Pakistan, Netherlands,Lords,win,first,Pakistan
+South Africa, New Zealand,Lords,loss,first,South Africa
+Sri Lanka, West Indies,Nottingham,loss,first,Sri Lanka
+India, Ireland,Nottingham,win,2nd,India
+New Zealand, Ireland,Nottingham,loss,first,New Zealand
+South Africa, England,Nottingham,loss,2nd,South Africa
+Sri Lanka, Pakistan,Lords,win,first,Sri Lanka
+West Indies, India,Lords,loss,2nd,West Indies
+South Africa, West Indies,The Oval,loss,first,South Africa
+Pakistan, New Zealand,The Oval,loss,2nd,Pakistan
+Sri Lanka, Ireland,Lords,win,first,Sri Lanka
+England, India,Lords,loss,first,England
+Pakistan, Ireland,The Oval,win,first,Pakistan
+West Indies, England,The Oval,loss,2nd,West Indies
+Sri Lanka, New Zealand,Nottingham,win,first,Sri Lanka
+South Africa, India,Nottingham,win,first,South Africa
+Pakistan, South Africa,Nottingham,win,first,Pakistan
+Sri Lanka, West Indies,The Oval,loss,first,Sri Lanka
+Pakistan, Sri Lanka,Lords,loss,2nd,Pakistan
+West Indies, Bangladesh,Basseterre,loss,2nd,West Indies
+Pakistan, Sri Lanka,Colombo (RPS),win,first,Pakistan
+New Zealand, Sri Lanka,Colombo (RPS),win,first,New Zealand
+New Zealand, Sri Lanka,Colombo (RPS),win,first,New Zealand
+Pakistan, New Zealand,Dubai (DSC),loss,first,Pakistan
+Pakistan, New Zealand,Dubai (DSC),win,first,Pakistan
+England, South Africa,Johannesburg,loss,first,England
+South Africa, England,Centurion,win,first,South Africa
+Sri Lanka, India,Nagpur,loss,first,Sri Lanka
+India, Sri Lanka,Mohali,loss,2nd,India
+Ireland, Afghanistan,Colombo (PSS),loss,2nd,Ireland
+Kenya, Scotland,Nairobi (Gym),win,2nd,Kenya
+Canada, Ireland,Colombo (SSC),loss,first,Canada
+New Zealand, Bangladesh,Hamilton,loss,2nd,New Zealand
+Afghanistan, Canada,Colombo (SSC),loss,2nd,Afghanistan
+Kenya, Scotland,Nairobi (Gym),win,2nd,Kenya
+Australia, Pakistan,Melbourne,win,first,Australia
+Afghanistan, Ireland,Dubai (DSC),loss,first,Afghanistan
+Netherlands, Canada,Dubai (DSC),loss,2nd,Netherlands
+Afghanistan, Scotland,Abu Dhabi,loss,first,Afghanistan
+Kenya, Canada,Dubai (DSC),win,2nd,Kenya
+Netherlands, Kenya,Abu Dhabi,win,2nd,Netherlands
+Ireland, Scotland,Dubai (DSC),win,first,Ireland
+Netherlands, Afghanistan,Dubai (DSC),win,2nd,Netherlands
+Ireland, Netherlands,Dubai (DSC),win,first,Ireland
+Afghanistan, Ireland,Dubai (DSC),loss,2nd,Afghanistan
+England, Pakistan,Dubai (DSC),loss,2nd,England
+Pakistan, England,Dubai (DSC),win,2nd,Pakistan
+Australia, West Indies,Hobart,win,first,Australia
+Australia, West Indies,Sydney,loss,2nd,Australia
+Australia, New Zealand,Wellington,loss,2nd,Australia
+Zimbabwe, West Indies,Port of Spain,win,first,Zimbabwe
+New Zealand, Sri Lanka,Providence,loss,2nd,New Zealand
+West Indies, Ireland,Providence,win,first,West Indies
+India, Afghanistan,Gros Islet,win,2nd,India
+Pakistan, Bangladesh,Gros Islet,win,first,Pakistan
+India, South Africa,Gros Islet,loss,first,India
+Australia, Pakistan,Gros Islet,win,first,Australia
+Sri Lanka, Zimbabwe,Providence,win,first,Sri Lanka
+West Indies, England,Providence,win,2nd,West Indies
+New Zealand, Zimbabwe,Providence,win,2nd,New Zealand
+Pakistan, New Zealand,The Oval,loss,2nd,Pakistan
+Australia, Bangladesh,Bridgetown,win,first,Australia
+South Africa, Afghanistan,Bridgetown,loss,first,South Africa
+England, Pakistan,Bridgetown,win,2nd,England
+South Africa, New Zealand,Bridgetown,win,first,South Africa
+Australia, India,Bridgetown,loss,first,Australia
+Sri Lanka, West Indies,Bridgetown,win,first,Sri Lanka
+New Zealand, Pakistan,Bridgetown,loss,first,New Zealand
+England, South Africa,Bridgetown,win,first,England
+West Indies, India,Bridgetown,loss,first,West Indies
+Australia, Sri Lanka,Bridgetown,win,first,Australia
+Pakistan, South Africa,Gros Islet,win,first,Pakistan
+England, New Zealand,Gros Islet,loss,2nd,England
+Sri Lanka, India,Gros Islet,loss,2nd,Sri Lanka
+Australia, West Indies,Gros Islet,loss,2nd,Australia
+England, Sri Lanka,Gros Islet,loss,2nd,England
+Australia, Pakistan,Gros Islet,win,2nd,Australia
+England, Australia,Bridgetown,win,2nd,England
+South Africa, West Indies,North Sound,loss,first,South Africa
+South Africa, West Indies,North Sound,loss,first,South Africa
+New Zealand, Sri Lanka,Lauderhill,win,first,New Zealand
+Sri Lanka, New Zealand,Lauderhill,loss,2nd,Sri Lanka
+India, Zimbabwe,Harare,win,2nd,India
+India, Zimbabwe,Harare,win,2nd,India
+Pakistan, Australia,Birmingham,win,first,Pakistan
+Pakistan, Australia,Birmingham,win,first,Pakistan
+England, Pakistan,Cardiff,win,2nd,England
+England, Pakistan,Cardiff,loss,2nd,England
+South Africa, Zimbabwe,Bloemfontein,loss,2nd,South Africa
+South Africa, Zimbabwe,Kimberley,win,first,South Africa
+South Africa, Pakistan,Abu Dhabi,loss,2nd,South Africa
+South Africa, Pakistan,Abu Dhabi,loss,2nd,South Africa
+Sri Lanka, Australia,Perth,loss,2nd,Sri Lanka
+New Zealand, Pakistan,Auckland,win,2nd,New Zealand
+New Zealand, Pakistan,Hamilton,loss,first,New Zealand
+Pakistan, New Zealand,Christchurch,win,first,Pakistan
+India, South Africa,Durban,win,first,India
+England, Australia,Adelaide,loss,2nd,England
+Australia, England,Melbourne,win,first,Australia
+West Indies, Pakistan,Gros Islet,win,first,West Indies
+India, West Indies,Port of Spain,loss,first,India
+Sri Lanka, England,Bristol,win,2nd,Sri Lanka
+Sri Lanka, Australia,Pallekele,loss,first,Sri Lanka
+Sri Lanka, Australia,Pallekele,win,first,Sri Lanka
+England, India,Manchester,loss,2nd,England
+Pakistan, Zimbabwe,Harare,loss,first,Pakistan
+Pakistan, Zimbabwe,Harare,win,first,Pakistan
+England, West Indies,The Oval,win,2nd,England
+West Indies, England,The Oval,loss,first,West Indies
+Bangladesh, West Indies,Dhaka,win,2nd,Bangladesh
+Australia, South Africa,Cape Town,loss,2nd,Australia
+New Zealand, Zimbabwe,Harare,win,2nd,New Zealand
+South Africa, Australia,Johannesburg,loss,2nd,South Africa
+New Zealand, Zimbabwe,Harare,loss,first,New Zealand
+England, India,Kolkata,loss,2nd,England
+Pakistan, Sri Lanka,Abu Dhabi,loss,2nd,Pakistan
+Pakistan, Bangladesh,Dhaka,win,first,Pakistan
+Australia, India,Sydney,loss,first,Australia
+India, Australia,Melbourne,loss,2nd,India
+New Zealand, Zimbabwe,Auckland,loss,2nd,New Zealand
+New Zealand, Zimbabwe,Hamilton,loss,2nd,New Zealand
+New Zealand, South Africa,Wellington,win,2nd,New Zealand
+South Africa, New Zealand,Hamilton,win,2nd,South Africa
+South Africa, New Zealand,Auckland,loss,first,South Africa
+Ireland, Kenya,Mombasa,win,2nd,Ireland
+Ireland, Kenya,Mombasa,loss,2nd,Ireland
+Pakistan, England,Dubai (DSC),loss,first,Pakistan
+Ireland, Kenya,Mombasa,win,first,Ireland
+England, Pakistan,Dubai (DSC),win,first,England
+England, Pakistan,Abu Dhabi,win,first,England
+Netherlands, Canada,Dubai (DSC),win,first,Netherlands
+Scotland, Kenya,ICCA Dubai,win,first,Scotland
+Ireland, Kenya,Dubai (DSC),loss,2nd,Ireland
+Afghanistan, Netherlands,Dubai (DSC),loss,2nd,Afghanistan
+Afghanistan, Canada,ICCA Dubai,win,first,Afghanistan
+Ireland, Scotland,Dubai (DSC),win,first,Ireland
+Ireland, Canada,Dubai (DSC),loss,2nd,Ireland
+Netherlands, Scotland,ICCA Dubai,loss,2nd,Netherlands
+Ireland, Netherlands,Dubai (DSC),win,2nd,Ireland
+Scotland, Canada,Dubai (DSC),loss,2nd,Scotland
+Ireland, Afghanistan,Dubai (DSC),loss,2nd,Ireland
+Australia, West Indies,Gros Islet,loss,2nd,Australia
+South Africa, India,Johannesburg,loss,first,South Africa
+West Indies, Australia,Bridgetown,win,first,West Indies
+Sri Lanka, Pakistan,Hambantota,win,first,Sri Lanka
+Pakistan, Sri Lanka,Hambantota,win,first,Pakistan
+England, West Indies,Nottingham,loss,2nd,England
+West Indies, New Zealand,Lauderhill,loss,first,West Indies
+West Indies, New Zealand,Lauderhill,win,first,West Indies
+Bangladesh, Ireland,Belfast,loss,first,Bangladesh
+Bangladesh, Ireland,Belfast,win,first,Bangladesh
+Bangladesh, Ireland,Belfast,loss,2nd,Bangladesh
+Scotland, Bangladesh,The Hague,win,first,Scotland
+Bangladesh, Netherlands,The Hague,loss,2nd,Bangladesh
+Netherlands, Bangladesh,The Hague,loss,2nd,Netherlands
+India, Sri Lanka,Pallekele,loss,first,India
+Pakistan, Australia,Dubai (DSC),win,2nd,Pakistan
+South Africa, England,Chester-le-Street,win,2nd,South Africa
+Australia, Pakistan,Dubai (DSC),loss,first,Australia
+New Zealand, India,Chennai,loss,first,New Zealand
+Sri Lanka, Zimbabwe,Hambantota,loss,first,Sri Lanka
+Australia, Ireland,Colombo (RPS),loss,2nd,Australia
+India, Afghanistan,Colombo (RPS),loss,first,India
+South Africa, Zimbabwe,Hambantota,win,2nd,South Africa
+New Zealand, Bangladesh,Pallekele,loss,first,New Zealand
+England, Afghanistan,Colombo (RPS),loss,first,England
+South Africa, Sri Lanka,Hambantota,loss,first,South Africa
+Australia, West Indies,Colombo (RPS),loss,2nd,Australia
+Pakistan, New Zealand,Pallekele,win,first,Pakistan
+India, England,Colombo (RPS),loss,first,India
+Pakistan, Bangladesh,Pallekele,loss,2nd,Pakistan
+West Indies, England,Pallekele,win,first,West Indies
+Pakistan, South Africa,Colombo (RPS),loss,2nd,Pakistan
+Australia, India,Colombo (RPS),loss,2nd,Australia
+England, New Zealand,Pallekele,loss,2nd,England
+Sri Lanka, West Indies,Pallekele,loss,2nd,Sri Lanka
+Australia, South Africa,Colombo (RPS),win,2nd,Australia
+India, Pakistan,Colombo (RPS),loss,2nd,India
+Sri Lanka, England,Pallekele,loss,first,Sri Lanka
+Pakistan, Australia,Colombo (RPS),loss,first,Pakistan
+India, South Africa,Colombo (RPS),loss,first,India
+Sri Lanka, Pakistan,Colombo (RPS),win,first,Sri Lanka
+West Indies, Australia,Colombo (RPS),win,first,West Indies
+West Indies, Sri Lanka,Colombo (RPS),win,first,West Indies
+West Indies, Bangladesh,Dhaka,win,first,West Indies
+India, England,Pune,win,2nd,India
+South Africa, New Zealand,Durban,loss,2nd,South Africa
+England, India,Mumbai,win,2nd,England
+New Zealand, South Africa,East London,win,2nd,New Zealand
+Pakistan, India,Bengaluru,win,2nd,Pakistan
+South Africa, New Zealand,Port Elizabeth,win,first,South Africa
+India, Pakistan,Ahmedabad,loss,first,India
+Sri Lanka, Australia,Sydney,loss,2nd,Sri Lanka
+Sri Lanka, Australia,Melbourne,loss,first,Sri Lanka
+England, New Zealand,Auckland,loss,first,England
+New Zealand, England,Hamilton,loss,first,New Zealand
+West Indies, Australia,Brisbane,win,first,West Indies
+England, New Zealand,Wellington,win,2nd,England
+West Indies, Zimbabwe,North Sound,loss,2nd,West Indies
+Pakistan, South Africa,Centurion,win,first,Pakistan
+Afghanistan, Scotland,Sharjah,win,first,Afghanistan
+West Indies, Zimbabwe,North Sound,win,first,West Indies
+Afghanistan, Scotland,Sharjah,loss,2nd,Afghanistan
+Canada, Kenya,ICCA Dubai,loss,2nd,Canada
+Kenya, Canada,ICCA Dubai,win,first,Kenya
+Sri Lanka, Bangladesh,Pallekele,loss,first,Sri Lanka
+Kenya, Netherlands,Windhoek,loss,2nd,Kenya
+Kenya, Netherlands,Windhoek,win,2nd,Kenya
+Zimbabwe, Bangladesh,Bulawayo,win,first,Zimbabwe
+Bangladesh, Zimbabwe,Bulawayo,win,first,Bangladesh
+New Zealand, England,The Oval,loss,first,New Zealand
+Scotland, Kenya,Aberdeen,win,first,Scotland
+Scotland, Kenya,Aberdeen,loss,2nd,Scotland
+Pakistan, West Indies,Kingstown,loss,2nd,Pakistan
+Pakistan, West Indies,Kingstown,win,first,Pakistan
+South Africa, Sri Lanka,Colombo (RPS),win,first,South Africa
+South Africa, Sri Lanka,Hambantota,win,first,South Africa
+Sri Lanka, South Africa,Hambantota,loss,2nd,Sri Lanka
+Pakistan, Zimbabwe,Harare,loss,first,Pakistan
+Pakistan, Zimbabwe,Harare,loss,first,Pakistan
+Australia, England,Southampton,loss,first,Australia
+England, Australia,Chester-le-Street,loss,first,England
+Afghanistan, Kenya,Sharjah,win,first,Afghanistan
+India, Australia,Rajkot,win,2nd,India
+Kenya, Afghanistan,Sharjah,win,first,Kenya
+New Zealand, Bangladesh,Dhaka,win,first,New Zealand
+South Africa, Pakistan,Dubai (DSC),loss,2nd,South Africa
+Netherlands, Afghanistan,Sharjah,loss,2nd,Netherlands
+South Africa, Pakistan,Dubai (DSC),win,first,South Africa
+Afghanistan, Scotland,Sharjah,win,first,Afghanistan
+Ireland, Canada,Abu Dhabi,loss,first,Ireland
+Kenya, Scotland,ICCA Dubai,win,first,Kenya
+South Africa, Pakistan,Johannesburg,loss,first,South Africa
+Sri Lanka, New Zealand,Pallekele,win,2nd,Sri Lanka
+Scotland, Netherlands,ICCA Dubai,loss,first,Scotland
+Pakistan, South Africa,Cape Town,win,first,Pakistan
+Netherlands, Kenya,ICCA Dubai,win,first,Netherlands
+Afghanistan, Kenya,Sharjah,win,first,Afghanistan
+Kenya, Canada,Sharjah,win,first,Kenya
+Netherlands, Scotland,Abu Dhabi,loss,2nd,Netherlands
+Ireland, Afghanistan,Abu Dhabi,win,first,Ireland
+Pakistan, Afghanistan,Sharjah,loss,2nd,Pakistan
+Pakistan, Sri Lanka,Dubai (DSC),win,2nd,Pakistan
+Sri Lanka, Pakistan,Dubai (DSC),loss,first,Sri Lanka
+New Zealand, West Indies,Auckland,win,first,New Zealand
+New Zealand, West Indies,Wellington,loss,2nd,New Zealand
+Australia, England,Hobart,win,first,Australia
+Australia, England,Melbourne,loss,2nd,Australia
+Australia, England,Sydney,win,first,Australia
+Sri Lanka, Bangladesh,Chattogram,loss,first,Sri Lanka
+Sri Lanka, Bangladesh,Chattogram,loss,2nd,Sri Lanka
+Ireland, West Indies,Kingston,loss,2nd,Ireland
+West Indies, Ireland,Kingston,loss,first,West Indies
+West Indies, England,Bridgetown,win,first,West Indies
+West Indies, England,Bridgetown,loss,2nd,West Indies
+Australia, South Africa,Durban,win,2nd,Australia
+England, West Indies,Bridgetown,win,first,England
+Australia, South Africa,Centurion,win,2nd,Australia
+Bangladesh, Afghanistan,Dhaka,win,2nd,Bangladesh
+Nepal, Hong Kong,Chattogram,loss,first,Nepal
+Ireland, Zimbabwe,Sylhet,win,2nd,Ireland
+Netherlands, U.A.E.,Sylhet,loss,2nd,Netherlands
+Afghanistan, Hong Kong,Chattogram,loss,2nd,Afghanistan
+Bangladesh, Nepal,Chattogram,win,2nd,Bangladesh
+Zimbabwe, Netherlands,Sylhet,loss,2nd,Zimbabwe
+Ireland, U.A.E.,Sylhet,win,2nd,Ireland
+Nepal, Afghanistan,Chattogram,loss,first,Nepal
+Hong Kong, Bangladesh,Chattogram,win,2nd,Hong Kong
+Zimbabwe, U.A.E.,Sylhet,win,2nd,Zimbabwe
+Netherlands, Ireland,Sylhet,win,2nd,Netherlands
+India, Pakistan,Dhaka,win,2nd,India
+Sri Lanka, South Africa,Chattogram,win,first,Sri Lanka
+New Zealand, England,Chattogram,win,2nd,New Zealand
+Pakistan, Australia,Dhaka,loss,first,Pakistan
+India, West Indies,Dhaka,win,2nd,India
+South Africa, New Zealand,Chattogram,loss,first,South Africa
+Sri Lanka, Netherlands,Chattogram,win,2nd,Sri Lanka
+West Indies, Bangladesh,Dhaka,loss,first,West Indies
+South Africa, Netherlands,Chattogram,loss,first,South Africa
+England, Sri Lanka,Chattogram,win,2nd,England
+West Indies, Australia,Dhaka,loss,2nd,West Indies
+India, Bangladesh,Dhaka,win,2nd,India
+New Zealand, Netherlands,Chattogram,win,2nd,New Zealand
+South Africa, England,Chattogram,loss,first,South Africa
+Pakistan, Bangladesh,Dhaka,win,first,Pakistan
+India, Australia,Dhaka,loss,first,India
+Netherlands, England,Chattogram,loss,first,Netherlands
+Sri Lanka, New Zealand,Chattogram,loss,first,Sri Lanka
+Australia, Bangladesh,Dhaka,loss,2nd,Australia
+West Indies, Pakistan,Dhaka,win,first,West Indies
+Sri Lanka, West Indies,Dhaka,win,first,Sri Lanka
+India, South Africa,Dhaka,loss,2nd,India
+Sri Lanka, India,Dhaka,win,2nd,Sri Lanka
+Sri Lanka, England,The Oval,loss,first,Sri Lanka
+New Zealand, West Indies,Roseau,win,2nd,New Zealand
+West Indies, New Zealand,Roseau,loss,first,West Indies
+England, India,Birmingham,win,first,England
+Australia, Pakistan,Dubai (DSC),loss,2nd,Australia
+South Africa, Australia,Adelaide,loss,2nd,South Africa
+Australia, South Africa,Melbourne,loss,2nd,Australia
+Australia, South Africa,Sydney,win,2nd,Australia
+Hong Kong, Nepal,Colombo (PSS),win,2nd,Hong Kong
+Pakistan, New Zealand,Dubai (DSC),win,2nd,Pakistan
+New Zealand, Pakistan,Dubai (DSC),loss,first,New Zealand
+West Indies, South Africa,Cape Town,loss,2nd,West Indies
+West Indies, South Africa,Johannesburg,win,2nd,West Indies
+South Africa, West Indies,Durban,loss,first,South Africa
+Bangladesh, Pakistan,Dhaka,loss,2nd,Bangladesh
+Pakistan, Zimbabwe,Lahore,loss,2nd,Pakistan
+Pakistan, Zimbabwe,Lahore,loss,2nd,Pakistan
+Scotland, Ireland,Bready,loss,2nd,Scotland
+Scotland, Ireland,Bready,win,2nd,Scotland
+England, New Zealand,Manchester,win,first,England
+Netherlands, Nepal,Amstelveen,win,first,Netherlands
+Netherlands, Nepal,Amstelveen,loss,first,Netherlands
+Netherlands, Nepal,Rotterdam,win,first,Netherlands
+Nepal, Netherlands,Rotterdam,loss,2nd,Nepal
+South Africa, Bangladesh,Dhaka,win,first,South Africa
+South Africa, Bangladesh,Dhaka,win,first,South Africa
+Scotland, U.A.E.,Edinburgh,win,2nd,Scotland
+Afghanistan, Netherlands,Edinburgh,loss,first,Afghanistan
+Afghanistan, U.A.E.,Edinburgh,loss,2nd,Afghanistan
+Netherlands, Scotland,Edinburgh,win,first,Netherlands
+Netherlands, U.A.E.,Edinburgh,win,2nd,Netherlands
+Afghanistan, Scotland,Edinburgh,win,first,Afghanistan
+Ireland, Nepal,Belfast,win,2nd,Ireland
+P.N.G., Ireland,Belfast,loss,2nd,P.N.G.
+Hong Kong, Nepal,Belfast,win,2nd,Hong Kong
+P.N.G., Nepal,Dublin (Malahide),win,2nd,P.N.G.
+India, Zimbabwe,Harare,win,first,India
+Hong Kong, Ireland,Dublin (Malahide),loss,first,Hong Kong
+Zimbabwe, India,Harare,win,first,Zimbabwe
+Hong Kong, Afghanistan,Dublin (Malahide),loss,2nd,Hong Kong
+Afghanistan, P.N.G.,Dublin (Malahide),loss,2nd,Afghanistan
+Scotland, Hong Kong,Dublin (Malahide),win,2nd,Scotland
+Afghanistan, Oman,Dublin,win,2nd,Afghanistan
+Netherlands, Ireland,Dublin (Malahide),win,2nd,Netherlands
+Pakistan, Sri Lanka,Colombo (RPS),win,first,Pakistan
+Pakistan, Sri Lanka,Colombo (RPS),loss,2nd,Pakistan
+New Zealand, Zimbabwe,Harare,loss,first,New Zealand
+South Africa, New Zealand,Durban,win,2nd,South Africa
+New Zealand, South Africa,Centurion,win,first,New Zealand
+England, Australia,Cardiff,loss,first,England
+Pakistan, Zimbabwe,Harare,win,first,Pakistan
+Pakistan, Zimbabwe,Harare,win,first,Pakistan
+South Africa, India,Dharamsala,win,2nd,South Africa
+South Africa, India,Cuttack,win,2nd,South Africa
+Afghanistan, Zimbabwe,Bulawayo,loss,2nd,Afghanistan
+Afghanistan, Zimbabwe,Bulawayo,loss,2nd,Afghanistan
+Sri Lanka, West Indies,Pallekele,loss,first,Sri Lanka
+West Indies, Sri Lanka,Colombo (RPS),win,first,West Indies
+Bangladesh, Zimbabwe,Dhaka,win,2nd,Bangladesh
+Zimbabwe, Bangladesh,Dhaka,loss,2nd,Zimbabwe
+Oman, Hong Kong,Abu Dhabi,win,2nd,Oman
+U.A.E., Oman,Abu Dhabi,win,2nd,U.A.E.
+Oman, Hong Kong,Abu Dhabi,loss,first,Oman
+Hong Kong, Oman,Abu Dhabi,win,2nd,Hong Kong
+England, Pakistan,Dubai (DSC),win,first,England
+England, Pakistan,Dubai (DSC),win,first,England
+Hong Kong, Afghanistan,Abu Dhabi,loss,2nd,Hong Kong
+Afghanistan, Oman,Abu Dhabi,loss,first,Afghanistan
+Afghanistan, Oman,Abu Dhabi,loss,first,Afghanistan
+New Zealand, Sri Lanka,Mount Maunganui,loss,first,New Zealand
+Afghanistan, Zimbabwe,Sharjah,win,first,Afghanistan
+New Zealand, Sri Lanka,Auckland,win,2nd,New Zealand
+Afghanistan, Zimbabwe,Sharjah,loss,first,Afghanistan
+Pakistan, New Zealand,Auckland,loss,first,Pakistan
+Bangladesh, Zimbabwe,Khulna,loss,2nd,Bangladesh
+New Zealand, Pakistan,Hamilton,loss,2nd,New Zealand
+Bangladesh, Zimbabwe,Khulna,win,first,Bangladesh
+Zimbabwe, Bangladesh,Khulna,win,first,Zimbabwe
+New Zealand, Pakistan,Wellington,loss,first,New Zealand
+Zimbabwe, Bangladesh,Khulna,win,first,Zimbabwe
+India, Australia,Adelaide,loss,first,India
+India, Australia,Melbourne,loss,first,India
+Hong Kong, Scotland,Mong Kok,win,2nd,Hong Kong
+Scotland, Hong Kong,Mong Kok,loss,first,Scotland
+India, Australia,Sydney,loss,2nd,India
+Netherlands, U.A.E.,ICCA Dubai,loss,first,Netherlands
+U.A.E., Scotland,ICCA Dubai,win,first,U.A.E.
+Scotland, Netherlands,ICCA Dubai,win,first,Scotland
+Ireland, P.N.G.,Townsville,win,2nd,Ireland
+Ireland, P.N.G.,Townsville,loss,first,Ireland
+P.N.G., Ireland,Townsville,win,first,P.N.G.
+Sri Lanka, India,Pune,win,2nd,Sri Lanka
+India, Sri Lanka,Ranchi,loss,first,India
+Ireland, U.A.E.,Abu Dhabi,loss,first,Ireland
+India, Sri Lanka,Visakhapatnam,win,2nd,India
+U.A.E., Ireland,Abu Dhabi,win,first,U.A.E.
+U.A.E., Afghanistan,Fatullah,win,first,U.A.E.
+Oman, Hong Kong,Fatullah,win,first,Oman
+South Africa, England,Cape Town,win,2nd,South Africa
+Afghanistan, Oman,Fatullah,loss,2nd,Afghanistan
+U.A.E., Hong Kong,Fatullah,loss,2nd,U.A.E.
+South Africa, England,Johannesburg,win,2nd,South Africa
+Afghanistan, Hong Kong,Dhaka,loss,first,Afghanistan
+U.A.E., Oman,Dhaka,loss,first,U.A.E.
+India, Bangladesh,Dhaka,loss,first,India
+Sri Lanka, U.A.E.,Dhaka,loss,first,Sri Lanka
+Bangladesh, U.A.E.,Dhaka,loss,first,Bangladesh
+India, Pakistan,Dhaka,win,2nd,India
+Bangladesh, Sri Lanka,Dhaka,win,first,Bangladesh
+Pakistan, U.A.E.,Dhaka,loss,2nd,Pakistan
+India, Sri Lanka,Dhaka,win,2nd,India
+Bangladesh, Pakistan,Dhaka,loss,2nd,Bangladesh
+India, U.A.E.,Dhaka,loss,2nd,India
+Pakistan, Sri Lanka,Dhaka,win,2nd,Pakistan
+South Africa, Australia,Durban,loss,2nd,South Africa
+Australia, South Africa,Johannesburg,win,2nd,Australia
+India, Bangladesh,Dhaka,win,2nd,India
+Zimbabwe, Hong Kong,Nagpur,loss,first,Zimbabwe
+Afghanistan, Scotland,Nagpur,win,first,Afghanistan
+Bangladesh, Netherlands,Dharamsala,loss,first,Bangladesh
+Oman, Ireland,Dharamsala,loss,2nd,Oman
+Australia, South Africa,Cape Town,loss,2nd,Australia
+Zimbabwe, Scotland,Nagpur,win,first,Zimbabwe
+Afghanistan, Hong Kong,Nagpur,loss,2nd,Afghanistan
+Afghanistan, Zimbabwe,Nagpur,win,first,Afghanistan
+Scotland, Hong Kong,Nagpur,loss,2nd,Scotland
+Netherlands, Ireland,Dharamsala,loss,first,Netherlands
+Bangladesh, Oman,Dharamsala,loss,first,Bangladesh
+New Zealand, India,Nagpur,win,first,New Zealand
+Pakistan, Bangladesh,Kolkata,win,first,Pakistan
+West Indies, England,Mumbai,win,2nd,West Indies
+Sri Lanka, Afghanistan,Kolkata,loss,2nd,Sri Lanka
+New Zealand, Australia,Dharamsala,win,first,New Zealand
+England, South Africa,Mumbai,win,2nd,England
+India, Pakistan,Kolkata,win,2nd,India
+South Africa, Afghanistan,Mumbai,win,first,South Africa
+West Indies, Sri Lanka,Bengaluru,win,2nd,West Indies
+Australia, Bangladesh,Bengaluru,win,2nd,Australia
+New Zealand, Pakistan,Mohali,win,first,New Zealand
+England, Afghanistan,Delhi,win,first,England
+India, Bangladesh,Bengaluru,loss,first,India
+Australia, Pakistan,Mohali,win,first,Australia
+West Indies, South Africa,Nagpur,win,2nd,West Indies
+New Zealand, Bangladesh,Kolkata,win,first,New Zealand
+England, Sri Lanka,Delhi,loss,first,England
+Afghanistan, West Indies,Nagpur,loss,first,Afghanistan
+India, Australia,Mohali,loss,2nd,India
+South Africa, Sri Lanka,Delhi,win,2nd,South Africa
+England, New Zealand,Delhi,win,2nd,England
+West Indies, India,Mumbai,win,2nd,West Indies
+West Indies, England,Kolkata,win,2nd,West Indies
+Zimbabwe, India,Harare,loss,first,Zimbabwe
+India, Zimbabwe,Harare,loss,2nd,India
+India, Zimbabwe,Harare,loss,first,India
+England, Sri Lanka,Southampton,loss,2nd,England
+West Indies, India,Lauderhill,loss,first,West Indies
+Hong Kong, Ireland,Bready,win,first,Hong Kong
+Australia, Sri Lanka,Pallekele,loss,first,Australia
+Pakistan, England,Manchester,loss,2nd,Pakistan
+Australia, Sri Lanka,Colombo (RPS),loss,2nd,Australia
+Pakistan, West Indies,Dubai (DSC),win,2nd,Pakistan
+Pakistan, West Indies,Dubai (DSC),loss,first,Pakistan
+Pakistan, West Indies,Abu Dhabi,win,2nd,Pakistan
+Afghanistan, U.A.E.,ICCA Dubai,win,first,Afghanistan
+Afghanistan, U.A.E.,Dubai (DSC),loss,2nd,Afghanistan
+Afghanistan, U.A.E.,ICCA Dubai,win,first,Afghanistan
+New Zealand, Bangladesh,Napier,loss,2nd,New Zealand
+New Zealand, Bangladesh,Mount Maunganui,loss,first,New Zealand
+New Zealand, Bangladesh,Mount Maunganui,loss,first,New Zealand
+Scotland, Hong Kong,Abu Dhabi,win,first,Scotland
+Afghanistan, Ireland,Abu Dhabi,loss,2nd,Afghanistan
+Netherlands, Oman,Abu Dhabi,loss,2nd,Netherlands
+Oman, Hong Kong,Abu Dhabi,win,2nd,Oman
+Afghanistan, U.A.E.,Abu Dhabi,win,2nd,Afghanistan
+Scotland, Netherlands,Abu Dhabi,loss,first,Scotland
+Ireland, U.A.E.,Dubai (DSC),win,first,Ireland
+Hong Kong, Netherlands,Dubai (DSC),win,first,Hong Kong
+Scotland, Oman,Dubai (DSC),loss,2nd,Scotland
+Afghanistan, Oman,Dubai (DSC),win,2nd,Afghanistan
+Ireland, Scotland,Dubai (DSC),loss,first,Ireland
+Afghanistan, Ireland,Dubai (DSC),loss,2nd,Afghanistan
+South Africa, Sri Lanka,Centurion,loss,first,South Africa
+Sri Lanka, South Africa,Johannesburg,loss,2nd,Sri Lanka
+Sri Lanka, South Africa,Cape Town,loss,2nd,Sri Lanka
+England, India,Kanpur,win,2nd,England
+India, England,Nagpur,loss,first,India
+India, England,Bengaluru,loss,first,India
+South Africa, New Zealand,Auckland,loss,first,South Africa
+Sri Lanka, Australia,Melbourne,win,2nd,Sri Lanka
+Sri Lanka, Australia,Geelong,win,2nd,Sri Lanka
+Australia, Sri Lanka,Adelaide,loss,first,Australia
+Afghanistan, Ireland,Greater Noida,loss,2nd,Afghanistan
+Afghanistan, Ireland,Greater Noida,win,first,Afghanistan
+Afghanistan, Ireland,Greater Noida,loss,first,Afghanistan
+Pakistan, West Indies,Bridgetown,win,2nd,Pakistan
+Pakistan, West Indies,Port of Spain,loss,first,Pakistan
+West Indies, Pakistan,Port of Spain,loss,2nd,West Indies
+Pakistan, West Indies,Port of Spain,win,2nd,Pakistan
+Sri Lanka, Bangladesh,Colombo (RPS),loss,2nd,Sri Lanka
+Bangladesh, Sri Lanka,Colombo (RPS),win,first,Bangladesh
+U.A.E., P.N.G.,Abu Dhabi,win,2nd,U.A.E.
+U.A.E., P.N.G.,Abu Dhabi,loss,first,U.A.E.
+U.A.E., P.N.G.,Abu Dhabi,loss,2nd,U.A.E.
+West Indies, Afghanistan,Basseterre,loss,2nd,West Indies
+West Indies, Afghanistan,Basseterre,win,first,West Indies
+West Indies, Afghanistan,Basseterre,loss,2nd,West Indies
+England, South Africa,Southampton,loss,2nd,England
+South Africa, England,Taunton,loss,first,South Africa
+England, South Africa,Cardiff,loss,first,England
+West Indies, India,Kingston,win,2nd,West Indies
+India, Sri Lanka,Colombo (RPS),win,2nd,India
+Pakistan, World-XI,Lahore,loss,first,Pakistan
+World-XI, Pakistan,Lahore,loss,2nd,World-XI
+Pakistan, World-XI,Lahore,loss,first,Pakistan
+West Indies, England,Chester-le-Street,loss,first,West Indies
+India, Australia,Ranchi,win,2nd,India
+Australia, India,Guwahati,win,2nd,Australia
+Pakistan, Sri Lanka,Abu Dhabi,win,2nd,Pakistan
+South Africa, Bangladesh,Bloemfontein,win,first,South Africa
+Pakistan, Sri Lanka,Abu Dhabi,win,2nd,Pakistan
+South Africa, Bangladesh,Potchefstroom,loss,first,South Africa
+Pakistan, Sri Lanka,Lahore,loss,first,Pakistan
+India, New Zealand,Delhi,loss,first,India
+New Zealand, India,Rajkot,win,first,New Zealand
+India, New Zealand,Thiruvananthapuram,loss,first,India
+India, Sri Lanka,Cuttack,loss,first,India
+India, Sri Lanka,Indore,loss,first,India
+India, Sri Lanka,Mumbai,win,2nd,India
+New Zealand, West Indies,Nelson,loss,first,New Zealand
+New Zealand, West Indies,Mount Maunganui,win,first,New Zealand
+New Zealand, Pakistan,Wellington,win,2nd,New Zealand
+Pakistan, New Zealand,Auckland,win,first,Pakistan
+Pakistan, New Zealand,Mount Maunganui,win,first,Pakistan
+Australia, New Zealand,Sydney,win,2nd,Australia
+Afghanistan, Zimbabwe,Sharjah,win,2nd,Afghanistan
+Afghanistan, Zimbabwe,Sharjah,loss,first,Afghanistan
+Australia, England,Hobart,win,2nd,Australia
+Australia, England,Melbourne,win,2nd,Australia
+New Zealand, England,Wellington,loss,first,New Zealand
+Sri Lanka, Bangladesh,Dhaka,loss,2nd,Sri Lanka
+Australia, New Zealand,Auckland,loss,2nd,Australia
+England, New Zealand,Hamilton,loss,first,England
+Sri Lanka, Bangladesh,Sylhet,loss,first,Sri Lanka
+India, South Africa,Johannesburg,loss,first,India
+Australia, New Zealand,Auckland,loss,2nd,Australia
+South Africa, India,Centurion,win,2nd,South Africa
+India, South Africa,Cape Town,loss,first,India
+Sri Lanka, India,Colombo (RPS),win,2nd,Sri Lanka
+India, Bangladesh,Colombo (RPS),win,2nd,India
+Bangladesh, Sri Lanka,Colombo (RPS),win,2nd,Bangladesh
+India, Sri Lanka,Colombo (RPS),win,2nd,India
+India, Bangladesh,Colombo (RPS),loss,first,India
+Bangladesh, Sri Lanka,Colombo (RPS),win,2nd,Bangladesh
+India, Bangladesh,Colombo (RPS),win,2nd,India
+Pakistan, West Indies,Karachi,loss,first,Pakistan
+Pakistan, West Indies,Karachi,win,first,Pakistan
+Pakistan, West Indies,Karachi,loss,2nd,Pakistan
+West Indies, ICC World XI,Lords,loss,first,West Indies
+Afghanistan, Bangladesh,Dehradun,loss,first,Afghanistan
+Afghanistan, Bangladesh,Dehradun,loss,2nd,Afghanistan
+Afghanistan, Bangladesh,Dehradun,win,first,Afghanistan
+Netherlands, Ireland,Rotterdam,loss,first,Netherlands
+Pakistan, Scotland,Edinburgh,win,first,Pakistan
+Netherlands, Ireland,Rotterdam,loss,2nd,Netherlands
+Pakistan, Scotland,Edinburgh,win,first,Pakistan
+Ireland, Scotland,Deventer,win,first,Ireland
+Scotland, Netherlands,Amstelveen,loss,2nd,Scotland
+Scotland, Netherlands,Amstelveen,win,first,Scotland
+India, Ireland,Dublin (Malahide),loss,first,India
+England, Australia,Birmingham,loss,first,England
+India, Ireland,Dublin (Malahide),loss,first,India
+Pakistan, Zimbabwe,Harare,loss,first,Pakistan
+Australia, Pakistan,Harare,win,2nd,Australia
+Australia, Zimbabwe,Harare,loss,first,Australia
+India, England,Manchester,win,2nd,India
+Pakistan, Zimbabwe,Harare,win,2nd,Pakistan
+Pakistan, Australia,Harare,loss,first,Pakistan
+Australia, Zimbabwe,Harare,loss,2nd,Australia
+England, India,Cardiff,win,2nd,England
+Pakistan, Australia,Harare,loss,2nd,Pakistan
+India, England,Bristol,win,2nd,India
+West Indies, Bangladesh,Basseterre,win,2nd,West Indies
+Bangladesh, West Indies,Lauderhill,loss,first,Bangladesh
+Bangladesh, West Indies,Lauderhill,win,first,Bangladesh
+Sri Lanka, South Africa,Colombo (RPS),loss,2nd,Sri Lanka
+Afghanistan, Ireland,Bready,loss,first,Afghanistan
+Afghanistan, Ireland,Bready,win,first,Afghanistan
+South Africa, Zimbabwe,East London,win,first,South Africa
+South Africa, Zimbabwe,Potchefstroom,loss,2nd,South Africa
+Australia, U.A.E.,Tolerance Oval,loss,2nd,Australia
+Pakistan, Australia,Abu Dhabi,loss,first,Pakistan
+Pakistan, Australia,Dubai (DSC),win,first,Pakistan
+England, Sri Lanka,Colombo (RPS),loss,first,England
+Pakistan, Australia,Dubai (DSC),win,first,Pakistan
+Pakistan, New Zealand,Abu Dhabi,win,first,Pakistan
+Pakistan, New Zealand,Dubai (DSC),loss,2nd,Pakistan
+India, West Indies,Kolkata,win,2nd,India
+Pakistan, New Zealand,Dubai (DSC),win,first,Pakistan
+India, West Indies,Lucknow,loss,first,India
+India, West Indies,Chennai,loss,2nd,India
+South Africa, Australia,Carrara,loss,first,South Africa
+Australia, India,Brisbane,loss,first,Australia
+India, Australia,Sydney,loss,2nd,India
+West Indies, Bangladesh,Sylhet,loss,2nd,West Indies
+Bangladesh, West Indies,Dhaka,loss,first,Bangladesh
+West Indies, Bangladesh,Dhaka,loss,first,West Indies
+New Zealand, Sri Lanka,Auckland,loss,first,New Zealand
+Bahrain, Saudi Arabia,Al Amerat,loss,first,Bahrain
+Kuwait, Maldies,Al Amerat,win,2nd,Kuwait
+Bahrain, Maldies,Al Amerat,loss,2nd,Bahrain
+Qatar, Saudi Arabia,Al Amerat,win,2nd,Qatar
+Saudi Arabia, Maldies,Al Amerat,loss,2nd,Saudi Arabia
+Qatar, Maldies,Al Amerat,loss,2nd,Qatar
+Kuwait, Bahrain,Al Amerat,win,2nd,Kuwait
+Saudi Arabia, Kuwait,Al Amerat,win,2nd,Saudi Arabia
+Qatar, Bahrain,Al Amerat,loss,first,Qatar
+Saudi Arabia, Qatar,Al Amerat,win,2nd,Saudi Arabia
+U.A.E., Nepal,ICCA Dubai,loss,first,U.A.E.
+Nepal, U.A.E.,ICCA Dubai,loss,2nd,Nepal
+South Africa, Pakistan,Cape Town,loss,first,South Africa
+Nepal, U.A.E.,ICCA Dubai,loss,first,Nepal
+South Africa, Pakistan,Johannesburg,loss,first,South Africa
+New Zealand, India,Wellington,loss,first,New Zealand
+Pakistan, South Africa,Centurion,loss,first,Pakistan
+India, New Zealand,Auckland,loss,2nd,India
+New Zealand, India,Hamilton,loss,first,New Zealand
+Netherlands, Scotland,Al Amerat,win,2nd,Netherlands
+Ireland, Oman,Al Amerat,loss,first,Ireland
+Netherlands, Oman,Al Amerat,win,2nd,Netherlands
+Scotland, Ireland,Al Amerat,win,2nd,Scotland
+Ireland, Netherlands,Al Amerat,win,2nd,Ireland
+Scotland, Oman,Al Amerat,win,2nd,Scotland
+Afghanistan, Ireland,Dehradun,loss,2nd,Afghanistan
+Afghanistan, Ireland,Dehradun,win,first,Afghanistan
+Afghanistan, Ireland,Dehradun,loss,first,Afghanistan
+Australia, India,Visakhapatnam,win,2nd,Australia
+Australia, India,Bengaluru,win,2nd,Australia
+England, West Indies,Gros Islet,win,2nd,England
+England, West Indies,Basseterre,loss,first,England
+England, West Indies,Basseterre,loss,2nd,England
+U.A.E., U.S.A.,ICCA Dubai,win,first,U.A.E.
+P.N.G., Philippines,Port Moresby,loss,first,P.N.G.
+P.N.G., anuatu,Port Moresby,loss,2nd,P.N.G.
+South Africa, Sri Lanka,Centurion,loss,first,South Africa
+Vanuatu, Philippines,Port Moresby,win,first,Vanuatu
+Philippines, anuatu,Port Moresby,loss,first,Philippines
+P.N.G., anuatu,Port Moresby,loss,2nd,P.N.G.
+South Africa, Sri Lanka,Johannesburg,loss,first,South Africa
+Spain, Malta,Cartagena,loss,2nd,Spain
+Spain, Malta,Cartagena,win,first,Spain
+Belize, Mexico,Naucalpan,win,2nd,Belize
+Panama, Costa Rica,Naucalpan,loss,2nd,Panama
+Mexico, Costa Rica,Naucalpan,loss,2nd,Mexico
+Belize, Panama,Naucalpan,loss,first,Belize
+Panama, Mexico,Naucalpan,loss,first,Panama
+Belize, Costa Rica,Naucalpan,loss,2nd,Belize
+England, Pakistan,Cardiff,loss,2nd,England
+Germany, Belgium,Waterloo,loss,first,Germany
+Germany, Belgium,Waterloo,win,first,Germany
+Germany, Belgium,Waterloo,win,2nd,Germany
+Kenya, Nigeria,Kampala,win,2nd,Kenya
+Namibia, Ghana,Kampala,win,2nd,Namibia
+Uganda, Botswana,Kampala,loss,first,Uganda
+Namibia, Uganda,Kampala,win,first,Namibia
+Nigeria, Botswana,Kampala,win,first,Nigeria
+Kenya, Ghana,Kampala,loss,first,Kenya
+Nigeria, Ghana,Kampala,loss,first,Nigeria
+Namibia, Botswana,Kampala,loss,2nd,Namibia
+Kenya, Uganda,Kampala,win,first,Kenya
+Uganda, Ghana,Kampala,loss,2nd,Uganda
+Italy, Germany,Utrecht,loss,2nd,Italy
+Italy, Germany,Utrecht,win,2nd,Italy
+Jersey, Guernsey,Castel,loss,first,Jersey
+Jersey, Guernsey,Castel,win,first,Jersey
+Jersey, Guernsey,Castel,loss,2nd,Jersey
+Italy, Norway,St Peter Port,loss,2nd,Italy
+Germany, Guernsey,Castel,win,2nd,Germany
+Italy, Germany,St Peter Port,win,2nd,Italy
+Jersey, Denmark,Castel,loss,first,Jersey
+Italy, Guernsey,St Peter Port,loss,first,Italy
+Jersey, Norway,Castel,win,first,Jersey
+Denmark, Norway,Castel,win,first,Denmark
+Guernsey, Norway,Castel,win,2nd,Guernsey
+Jersey, Italy,St Peter Port,loss,first,Jersey
+Germany, Denmark,Castel,win,2nd,Germany
+Guernsey, Denmark,Castel,loss,first,Guernsey
+Germany, Norway,St Peter Port,win,2nd,Germany
+Denmark, Italy,Castel,win,first,Denmark
+Germany, Jersey,St Peter Port,win,2nd,Germany
+Netherlands, Zimbabwe,Rotterdam,loss,first,Netherlands
+Malaysia, Thailand,Kuala Lumpur,win,2nd,Malaysia
+Malaysia, Maldies,Kuala Lumpur,loss,first,Malaysia
+Maldives, Thailand,Kuala Lumpur,loss,2nd,Maldives
+Malaysia, Thailand,Kuala Lumpur,loss,2nd,Malaysia
+Thailand, Maldies,Kuala Lumpur,win,2nd,Thailand
+Kuwait, Qatar,Doha,win,2nd,Kuwait
+Qatar, Kuwait,Doha,win,2nd,Qatar
+P.N.G., Samoa,Apia (No 1),win,2nd,P.N.G.
+P.N.G., anuatu,Apia (No 3),win,2nd,P.N.G.
+Samoa, anuatu,Apia (No 1),win,2nd,Samoa
+P.N.G., Samoa,Apia (No 2),win,2nd,P.N.G.
+Vanuatu, Samoa,Apia (No 3),loss,first,Vanuatu
+P.N.G., anuatu,Apia (No 2),loss,first,P.N.G.
+Ireland, Zimbabwe,Bready,win,2nd,Ireland
+P.N.G., anuatu,Apia (No 2),loss,first,P.N.G.
+Nepal, Malaysia,Kuala Lumpur,loss,2nd,Nepal
+Denmark, Finland,Brondby,loss,first,Denmark
+Denmark, Finland,Brondby,win,first,Denmark
+Nepal, Malaysia,Kuala Lumpur,win,first,Nepal
+Zimbabwe, Ireland,Bready,win,2nd,Zimbabwe
+Singapore, Qatar,Singapore,win,first,Singapore
+Malaysia, Kuwait,Singapore,win,first,Malaysia
+Qatar, Nepal,Singapore,loss,2nd,Qatar
+Nepal, Malaysia,Singapore,win,2nd,Nepal
+Kuwait, Qatar,Singapore,loss,first,Kuwait
+Singapore, Malaysia,Singapore,loss,2nd,Singapore
+Nepal, Kuwait,Singapore,win,2nd,Nepal
+Qatar, Malaysia,Singapore,loss,2nd,Qatar
+Singapore, Nepal,Singapore,win,first,Singapore
+U.A.E., Netherlands,Amstelveen,loss,first,U.A.E.
+India, West Indies,Lauderhill,win,2nd,India
+India, West Indies,Lauderhill,win,first,India
+U.A.E., Netherlands,Amstelveen,win,2nd,U.A.E.
+U.A.E., Netherlands,The Hague,loss,first,U.A.E.
+India, West Indies,Providence,win,2nd,India
+U.A.E., Netherlands,The Hague,loss,2nd,U.A.E.
+Finland, Spain,Kerava,win,first,Finland
+Spain, Finland,Kerava,loss,2nd,Spain
+Spain, Finland,Kerava,loss,2nd,Spain
+Bermuda, U.S.A.,Sandys Parish,win,first,Bermuda
+Canada, Cayman Is,Sandys Parish,win,first,Canada
+Namibia, Botswana,Windhoek,loss,first,Namibia
+U.S.A., Cayman Is,Hamilton,win,2nd,U.S.A.
+Namibia, Botswana,Windhoek,loss,first,Namibia
+Bermuda, Cayman Is,Sandys Parish,loss,2nd,Bermuda
+Canada, U.S.A.,Sandys Parish,loss,2nd,Canada
+Namibia, Botswana,Windhoek,win,first,Namibia
+Canada, Cayman Is,Sandys Parish,win,2nd,Canada
+Bermuda, U.S.A.,Sandys Parish,win,2nd,Bermuda
+Namibia, Botswana,Windhoek,loss,2nd,Namibia
+U.S.A., Cayman Is,Sandys Parish,loss,2nd,U.S.A.
+Canada, Bermuda,Sandys Parish,loss,2nd,Canada
+Canada, U.S.A.,Sandys Parish,loss,first,Canada
+Bermuda, Cayman Is,Sandys Parish,loss,2nd,Bermuda
+Romania, Austria,Ilfov County,loss,first,Romania
+Luxembourg, Turkey,Ilfov County,loss,2nd,Luxembourg
+Romania, Turkey,Ilfov County,loss,first,Romania
+Austria, Czech Rep.,Ilfov County,win,2nd,Austria
+Romania, Luxembourg,Ilfov County,loss,2nd,Romania
+Czech Rep., Turkey,Ilfov County,win,first,Czech Rep.
+Austria, Luxembourg,Ilfov County,win,first,Austria
+Czech Rep., Romania,Ilfov County,win,2nd,Czech Rep.
+Austria, Turkey,Ilfov County,loss,2nd,Austria
+Czech Rep., Luxembourg,Ilfov County,win,2nd,Czech Rep.
+Austria, Czech Rep.,Ilfov County,loss,first,Austria
+New Zealand, Sri Lanka,Pallekele,loss,2nd,New Zealand
+New Zealand, Sri Lanka,Pallekele,loss,2nd,New Zealand
+Sri Lanka, New Zealand,Pallekele,win,first,Sri Lanka
+Bangladesh, Zimbabwe,Dhaka,win,2nd,Bangladesh
+Afghanistan, Zimbabwe,Dhaka,loss,first,Afghanistan
+Afghanistan, Bangladesh,Dhaka,win,first,Afghanistan
+Scotland, Netherlands,Dublin (Malahide),loss,first,Scotland
+Ireland, Scotland,Dublin (Malahide),loss,2nd,Ireland
+Bangladesh, Zimbabwe,Chattogram,loss,first,Bangladesh
+Netherlands, Ireland,Dublin (Malahide),loss,2nd,Netherlands
+India, South Africa,Mohali,win,2nd,India
+Scotland, Netherlands,Dublin (Malahide),loss,2nd,Scotland
+Zimbabwe, Afghanistan,Chattogram,loss,2nd,Zimbabwe
+Ireland, Scotland,Dublin (Malahide),loss,first,Ireland
+Bangladesh, Afghanistan,Chattogram,win,2nd,Bangladesh
+South Africa, India,Bengaluru,loss,2nd,South Africa
+Zimbabwe, Nepal,Singapore,loss,2nd,Zimbabwe
+Nepal, Singapore,Singapore,loss,2nd,Nepal
+Vanuatu, Malaysia,Kuala Lumpur,win,first,Vanuatu
+Singapore, Zimbabwe,Singapore,win,first,Singapore
+Vanuatu, Malaysia,Kuala Lumpur,win,first,Vanuatu
+Zimbabwe, Nepal,Singapore,loss,first,Zimbabwe
+Malaysia, anuatu,Kuala Lumpur,win,first,Malaysia
+Vanuatu, Malaysia,Kuala Lumpur,loss,2nd,Vanuatu
+Zimbabwe, Singapore,Singapore,win,2nd,Zimbabwe
+Argentina, Mexico,Cortijo Polo Club Pitch A,win,2nd,Argentina
+Brazil, Chile,Cortijo Polo Club Pitch B,loss,first,Brazil
+Peru, Brazil,Cortijo Polo Club Pitch A,win,first,Peru
+Malaysia, anuatu,Kuala Lumpur,win,first,Malaysia
+Chile, Mexico,Cortijo Polo Club Pitch A,win,2nd,Chile
+Argentina, Peru,Cortijo Polo Club Pitch B,win,2nd,Argentina
+Argentina, Brazil,Cortijo Polo Club Pitch A,loss,first,Argentina
+Oman, Hong Kong,Al Amerat,loss,2nd,Oman
+Ireland, Netherlands,Al Amerat,win,2nd,Ireland
+Argentina, Chile,Cortijo Polo Club Pitch A,loss,first,Argentina
+Mexico, Peru,Cortijo Polo Club Pitch B,loss,first,Mexico
+Sri Lanka, Pakistan,Lahore,loss,first,Sri Lanka
+Peru, Chile,Cortijo Polo Club Pitch A,win,first,Peru
+Mexico, Brazil,Cortijo Polo Club Pitch B,win,first,Mexico
+Oman, Ireland,Al Amerat,loss,first,Oman
+Nepal, Hong Kong,Al Amerat,win,2nd,Nepal
+Argentina, Mexico,Lima Cricket and Football,loss,2nd,Argentina
+Nepal, Netherlands,Al Amerat,win,2nd,Nepal
+Ireland, Hong Kong,Al Amerat,win,first,Ireland
+Sri Lanka, Pakistan,Lahore,win,first,Sri Lanka
+Ireland, Nepal,Al Amerat,win,first,Ireland
+Oman, Netherlands,Al Amerat,loss,2nd,Oman
+Sri Lanka, Pakistan,Lahore,win,first,Sri Lanka
+Qatar, Jersey,Doha,loss,first,Qatar
+Netherlands, Hong Kong,Al Amerat,loss,first,Netherlands
+Oman, Nepal,Al Amerat,win,2nd,Oman
+Qatar, Jersey,Doha,loss,2nd,Qatar
+Qatar, Jersey,Doha,loss,2nd,Qatar
+Bulgaria, Serbia,Corfu,loss,2nd,Bulgaria
+Greece, Serbia,Corfu,win,2nd,Greece
+Greece, Bulgaria,Corfu,loss,2nd,Greece
+Czech Rep., Malta,Marsa,win,first,Czech Rep.
+Singapore, Scotland,ICCA Dubai,loss,first,Singapore
+Ireland, Hong Kong,Abu Dhabi,loss,2nd,Ireland
+Netherlands, Kenya,ICCA Dubai,win,first,Netherlands
+Bulgaria, Greece,Corfu,loss,first,Bulgaria
+Oman, U.A.E.,Abu Dhabi,win,2nd,Oman
+P.N.G., Bermuda,ICCA Dubai,win,2nd,P.N.G.
+Jersey, Nigeria,Abu Dhabi,win,first,Jersey
+Netherlands, Namibia,ICCA Dubai,win,first,Netherlands
+Scotland, Kenya,ICCA 2 Dubai,win,first,Scotland
+U.A.E., Ireland,Abu Dhabi,win,2nd,U.A.E.
+Czech Rep., Malta,Marsa,win,first,Czech Rep.
+P.N.G., Namibia,ICCA 2 Dubai,win,first,P.N.G.
+Canada, Jersey,Tolerance Oval,loss,first,Canada
+Singapore, Bermuda,ICCA 2 Dubai,loss,2nd,Singapore
+Oman, Hong Kong,Abu Dhabi,win,2nd,Oman
+Scotland, P.N.G.,ICCA Dubai,win,first,Scotland
+U.A.E., Hong Kong,Abu Dhabi,loss,2nd,U.A.E.
+Ireland, Oman,Tolerance Oval,loss,first,Ireland
+Kenya, Bermuda,ICCA Dubai,win,first,Kenya
+Canada, Nigeria,Abu Dhabi,win,first,Canada
+Namibia, Scotland,ICCA Dubai,win,first,Namibia
+Netherlands, Singapore,ICCA Dubai,loss,2nd,Netherlands
+Jersey, U.A.E.,Tolerance Oval,win,first,Jersey
+Namibia, Bermuda,ICCA 2 Dubai,win,2nd,Namibia
+Oman, Nigeria,Tolerance Oval,loss,2nd,Oman
+Kenya, Singapore,ICCA 2 Dubai,loss,2nd,Kenya
+Canada, Ireland,Abu Dhabi,win,first,Canada
+Hong Kong, Jersey,Abu Dhabi,win,first,Hong Kong
+P.N.G., Netherlands,ICCA Dubai,loss,2nd,P.N.G.
+U.A.E., Nigeria,Tolerance Oval,win,2nd,U.A.E.
+Hong Kong, Canada,Tolerance Oval,win,first,Hong Kong
+Scotland, Bermuda,Dubai (DSC),loss,first,Scotland
+P.N.G., Singapore,Dubai (DSC),loss,first,P.N.G.
+Ireland, Jersey,Tolerance Oval,win,2nd,Ireland
+Namibia, Kenya,Dubai (DSC),win,first,Namibia
+Spain, Portugal,Cartagena,win,2nd,Spain
+Oman, Canada,Abu Dhabi,loss,2nd,Oman
+Ireland, Nigeria,Abu Dhabi,loss,2nd,Ireland
+Portugal, Gibraltar,Cartagena,loss,2nd,Portugal
+Netherlands, Bermuda,Dubai (DSC),win,first,Netherlands
+Spain, Gibraltar,Cartagena,win,2nd,Spain
+Spain, Portugal,Cartagena,loss,first,Spain
+Namibia, Singapore,Dubai (DSC),loss,first,Namibia
+Australia, Sri Lanka,Adelaide,loss,first,Australia
+P.N.G., Kenya,Dubai (DSC),loss,first,P.N.G.
+Hong Kong, Nigeria,Tolerance Oval,loss,2nd,Hong Kong
+Portugal, Gibraltar,Cartagena,win,2nd,Portugal
+Jersey, Oman,Abu Dhabi,loss,first,Jersey
+Netherlands, Scotland,Dubai (DSC),win,2nd,Netherlands
+Spain, Gibraltar,Cartagena,win,2nd,Spain
+U.A.E., Canada,Abu Dhabi,loss,first,U.A.E.
+Netherlands, U.A.E.,Dubai (DSC),loss,2nd,Netherlands
+Namibia, Oman,Dubai (DSC),win,first,Namibia
+Australia, Sri Lanka,Brisbane,loss,2nd,Australia
+Scotland, U.A.E.,Dubai (DSC),win,first,Scotland
+Oman, Hong Kong,Dubai (DSC),win,first,Oman
+Scotland, Oman,ICCA Dubai,loss,2nd,Scotland
+England, New Zealand,Christchurch,win,2nd,England
+Australia, Sri Lanka,Melbourne,win,2nd,Australia
+Netherlands, Ireland,Dubai (DSC),loss,first,Netherlands
+P.N.G., Namibia,Dubai (DSC),win,first,P.N.G.
+Ireland, Namibia,Dubai (DSC),win,first,Ireland
+Netherlands, P.N.G.,Dubai (DSC),loss,2nd,Netherlands
+New Zealand, England,Wellington,loss,first,New Zealand
+Bangladesh, India,Delhi,win,2nd,Bangladesh
+New Zealand, England,Nelson,win,first,New Zealand
+Australia, Pakistan,Canberra,loss,2nd,Australia
+Malawi, Mozambique,Lilongwe,win,2nd,Malawi
+Malawi, Mozambique,Lilongwe,loss,2nd,Malawi
+Malawi, Mozambique,Lilongwe,loss,first,Malawi
+Malawi, Mozambique,Lilongwe,win,2nd,Malawi
+India, Bangladesh,Rajkot,win,2nd,India
+England, New Zealand,Napier,loss,first,England
+Australia, Pakistan,Perth,win,2nd,Australia
+Malawi, Mozambique,Blantyre,loss,first,Malawi
+Mozambique, Malawi,Blantyre,loss,first,Mozambique
+India, Bangladesh,Nagpur,loss,first,India
+West Indies, Afghanistan,Lucknow,loss,first,West Indies
+Afghanistan, West Indies,Lucknow,win,first,Afghanistan
+Afghanistan, West Indies,Lucknow,win,first,Afghanistan
+Nepal, Bhutan,Kirtipur,loss,first,Nepal
+Nepal, Maldies,Kirtipur,win,first,Nepal
+India, West Indies,Hyderabad (Deccan),win,2nd,India
+Maldives, Bhutan,Kirtipur,win,2nd,Maldives
+West Indies, India,Thiruvananthapuram,win,2nd,West Indies
+Nepal, Maldies,Kirtipur,win,2nd,Nepal
+India, West Indies,Mumbai,loss,first,India
+India, Sri Lanka,Indore,win,2nd,India
+India, Sri Lanka,Pune,loss,first,India
+Ireland, West Indies,St Georges,win,first,Ireland
+West Indies, Ireland,Basseterre,win,2nd,West Indies
+India, New Zealand,Auckland,win,2nd,India
+Pakistan, Bangladesh,Lahore,loss,2nd,Pakistan
+Pakistan, Bangladesh,Lahore,loss,2nd,Pakistan
+India, New Zealand,Auckland,loss,2nd,India
